@@ -4,4 +4,4 @@
  WORKDIR $APP_HOME
  ADD . $APP_HOME
  EXPOSE 3000
- CMD ["/bin/www"]
+ CMD ["bin/www"]
