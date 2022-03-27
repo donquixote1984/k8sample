@@ -37,7 +37,7 @@ export default function Home() {
 
 
       <main className={styles.main}>
-        <h1>Welcome to Next Sample </h1>
+        <h1>Welcome to Next Sample V2</h1>
         <h4 className={styles.title}>
 
           <div>
